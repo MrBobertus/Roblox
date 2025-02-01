@@ -1,5 +1,5 @@
 ```
-local MathModule = {}
+local OperationModule = {}
 
 -- Basic Operations
 -- Addition of two numbers
@@ -255,5 +255,5 @@ function MathModule.cheezburger()
 	return "cheezburger"
 end
 
-return MathModule
+return OperationModule
 ```
