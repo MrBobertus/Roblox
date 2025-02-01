@@ -20,7 +20,7 @@ Attribution — You must give appropriate credit, provide a link to the license,
 
 ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-For more details, check out the full license here.
+For more details, check out the full license [here](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## How to Use
 Clone or Download the repository to your local machine.
