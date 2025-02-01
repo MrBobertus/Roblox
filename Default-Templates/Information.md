@@ -2,4 +2,4 @@
 
 ## [Islands](https://github.com/MrBobertus/Roblox/blob/main/Default-Templates/Islands-V1.0.rbxl)
 
-![cat](https://tenor.com/view/cat-shocked-shocked-cat-gif-11170546809524778591)
+![image](https://github.com/user-attachments/assets/bfda6bd0-c6a9-45d6-98a6-9680aa3cfeb4)
