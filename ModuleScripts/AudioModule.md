@@ -31,6 +31,7 @@ function AudioModule.StopSound(sound, fadeTime)
 		AudioModule.FadeOut(sound, fadeTime)
 	else
 		sound:Stop()
+		sound:Destroy()
 	end
 end
 
@@ -71,6 +72,7 @@ function AudioModule.FadeOut(sound, fadeTime)
 
 	sound.Volume = 0
 	sound:Stop()
+	sound:Destroy()
 end
 
 return AudioModule
