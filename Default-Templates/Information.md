@@ -19,4 +19,9 @@ Just a basic Realistic Lighting Setting
 
 ![Screenshot 2025-02-13 195839](https://github.com/user-attachments/assets/3b6204ec-fbd4-4072-810d-02a6d87238a5)
 
+## [Dark Mode](https://github.com/MrBobertus/Roblox/blob/main/Default-Templates/Dark_Mode_V1.0.rbxl) under the [CC-BY-SA License](https://creativecommons.org/licenses/by-sa/4.0/)
+Dark Mode Template
+
+![Screenshot 2025-02-13 213556](https://github.com/user-attachments/assets/13cc6852-200f-486d-976c-4f24c9ccafa7)
+
 ![cat](https://media1.tenor.com/m/mwXBI6CY9l8AAAAd/cat-shocked.gif)
