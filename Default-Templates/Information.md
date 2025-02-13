@@ -1,6 +1,7 @@
 # Template Information
 
 ## [Islands](https://github.com/MrBobertus/Roblox/blob/main/Default-Templates/Islands-V1.0.rbxl) under the [CC-BY-SA License](https://creativecommons.org/licenses/by-sa/4.0/)
+Basic Roblox Template just smaller, newer and better
 
 ![image](https://github.com/user-attachments/assets/0ef58011-bc35-41c9-84ba-53b8777bbd53)
 
@@ -12,7 +13,10 @@
 
 
 ## [Realistic Lighting](https://github.com/MrBobertus/Roblox/blob/main/Default-Templates/Realistic_Lighting_Template_V1.0.rbxl) under the [CC-BY-SA License](https://creativecommons.org/licenses/by-sa/4.0/)
+Just a basic Realistic Lighting Setting
 
-Images coming soon
+![Screenshot 2025-02-13 195804](https://github.com/user-attachments/assets/916d01c5-99b9-46ea-8711-846d6fbff35b)
+
+![Screenshot 2025-02-13 195839](https://github.com/user-attachments/assets/3b6204ec-fbd4-4072-810d-02a6d87238a5)
 
 ![cat](https://media1.tenor.com/m/mwXBI6CY9l8AAAAd/cat-shocked.gif)
