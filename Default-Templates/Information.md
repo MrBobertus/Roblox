@@ -11,5 +11,8 @@
 ![image](https://github.com/user-attachments/assets/d9e57193-551e-4746-a5dc-6ed8c3c32875)
 
 
+## [Realistic Lighting](https://github.com/MrBobertus/Roblox/blob/main/Default-Templates/Realistic_Lighting_Template_V1.0.rbxl) under the [CC-BY-SA License](https://creativecommons.org/licenses/by-sa/4.0/)
+
+Images coming soon
 
 ![cat](https://media1.tenor.com/m/mwXBI6CY9l8AAAAd/cat-shocked.gif)
