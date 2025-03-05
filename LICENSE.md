@@ -7,9 +7,7 @@ non-commercial use and modification.
 
 To obtain permission for commercial use, please contact MrBobertus at [mr.bobertus.dev@gmail.com].
 
-# Full License
-
-## Modified MIT License
+# Full Modified MIT License
   
   Copyright (c) 2025 MrBobertus
   
