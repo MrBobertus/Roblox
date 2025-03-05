@@ -9,43 +9,22 @@ The scripts inside this repository are using the language LuaU which is a specif
 
 ## License
 
-This project is licensed under a modified MIT License.  It is free for personal,
-non-commercial use and modification.
+This repository contains Roblox place files created by MrBobertus. The licensing
+of the contents within these place files (Lua scripts and other original assets)
+is detailed in the document linked below.
 
-**Commercial use is strictly prohibited without prior written permission.**
+**Key Points:**
 
-To obtain permission for commercial use, please contact MrBobertus at [mr.bobertus.dev@gmail.com].
+*   **Lua Scripts:** Licensed under the MrBobertus Limited Commercial License (MLCL) - free for personal use, commercial use requires permission.
+*   **Other Original Assets:** Intended for free personal use *outside* of Roblox; commercial use *outside* of Roblox requires permission.
+*   **Roblox's Terms of Service:** Use *within* Roblox is governed by Roblox's Terms of Service.
 
-<details>
-  <summary>Full License</summary>
+**Full License Details:**
 
-  ## Modified MIT License
-  
-  Copyright (c) 2025 MrBobertus
-  
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to deal
-  in the Software without restriction, including without limitation the rights
-  to use, copy, modify, merge, publish, distribute, sublicense, and/or distribute
-  copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-  
-  The above copyright notice and this permission notice shall be included in all
-  copies or substantial portions of the Software.
-  
-  **Non-Commercial Use Only Without Prior Permission:**  This software may be used
-  and modified freely for personal, non-commercial purposes.  Commercial use
-  is strictly prohibited *without* prior written permission from the copyright
-  holder (MrBobertus).
-  
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-  SOFTWARE.
-</details>
+[Roblox License Conditions](https://github.com/MrBobertus/Important-Documents/blob/main/Roblox%20License%20Conditions.md)
+
+For any commercial use inquiries or other licensing questions, please contact
+MrBobertus at mr.bobertus.dev@gmail.com.
 
 ## How to Use
 Clone or Download the repository to your local machine.
